@@ -7,17 +7,17 @@ FontType:TrueType
 FontName:OpenSans-Bold
 FamilyName:Open Sans
 StyleName:Bold
-FullName:Open Sans Bold
 MenuName:Open Sans
 StyleBits:2
-WritingScript:Roman
-OutlineFileName:C:\Git Sources\Mythic-Apps-Design-Assets\Fliers\General Interest Meeting\Document fonts\OpenSans-Bold.ttf
-DataFormat:sfntData
-FileLength:224592
-FileModTime:1426559139
 WeightClass:700
 WidthClass:5
 AngleClass:0
+FullName:Open Sans Bold
+WritingScript:Roman
+OutlineFileName:\OpenSans-Bold.ttf
+DataFormat:sfntData
+FileLength:224592
+FileModTime:1426549867
 NameArray:0,Mac,4,Open Sans Bold
 NameArray:0,Win,1,Open Sans
 %EndFont
@@ -28,19 +28,19 @@ FontType:Type1
 FontName:Yataghan-Regular
 FamilyName:Yataghan
 StyleName:Regular
-FullName:Yataghan Regular
 MenuName:Yataghan
 StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Yataghan Regular
 WritingScript:Roman
-OutlineFileName:C:\Git Sources\Mythic-Apps-Design-Assets\Fliers\General Interest Meeting\Document fonts\Yataghan-Regular.otf
+OutlineFileName:\Yataghan-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:30712
-FileModTime:1424065708
-WeightClass:400
-WidthClass:5
-AngleClass:0
+FileModTime:1426549867
 NameArray:0,Mac,4,Yataghan Regular
 NameArray:0,Win,1,Yataghan
 %EndFont
